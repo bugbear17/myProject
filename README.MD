@@ -4,3 +4,4 @@
 =======
 "첫 git 파일 " 
 >>>>>>> 7d29f347d18a5545e5f18f61e6da15bd7249d7c8
+'today is mine are you agree ?' 
