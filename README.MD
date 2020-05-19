@@ -1,4 +1,4 @@
-"practice push and pull doing " 
+"don't do that " "practice push and pull doing " 
 'today is mine are you agree ?' 
 
 We can grab a coffee
